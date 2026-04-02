@@ -80,3 +80,7 @@ Send a notification message to Telegram.
   }
 }
 ```
+
+## Mirror Notice
+
+This repository is a mirror of the original project. Original authorship and commit history are preserved.
